@@ -11,7 +11,7 @@ There are generally six phase in data analysis life cycle
 
 ![Data analyst life cycle](image/data_analysis_life_cycle/1703065085907.png)
 
-> credit: [Google Data Analytics Specialization ](https://www.coursera.org/specializations/data-analytics-certificate)
+> Image credit: [Google Data Analytics Specialization ](https://www.coursera.org/specializations/data-analytics-certificate)
 
 There can be difference in life cycle from org to org.Below are the refernce of some variations:
 
