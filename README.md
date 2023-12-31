@@ -7,4 +7,4 @@
 ##### Map of Content
 
 * [Python](/Python/REDAME.md)
-* [Data Analytics Theory](/Data_Analytics_Theory/REDAME.md)
+* [Data Analytics Theory (GDAS)](/Data_Analytics_Theory/REDAME.md)
