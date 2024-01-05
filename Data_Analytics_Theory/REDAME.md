@@ -12,3 +12,5 @@
 * [ROCCC](/Data_Analytics_Theory/roccc.md)
 * [Aspects of data ethics](/Data_Analytics_Theory/aspects _of_data_ethics.md)
 * [Data errors](/Data_Analytics_Theory/data_errors.md)
+
+* [Basics of Visualization](/Data_Analytics_Theory/basics_of_visualization.md)
