@@ -6,7 +6,7 @@ date: "2024-01-08"
 math: true
 ---
 
-# Demo Note upt: jan14 6:09
+# Demo Note upt: now
 
 # shortcode demonstrated
 
