@@ -7,7 +7,8 @@ math: true
 ---
 
 # Demo Note upt: 6:38 yoyoy
-
+6:38 yoyoy
+6:38 yoyoy
 # shortcode demonstrated
 
 {{< math.inline >}}
