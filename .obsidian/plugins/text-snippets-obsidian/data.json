@@ -1,0 +1,15 @@
+{
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n\nfig : {{< figure src=\"../../../images/image.png\" attr=\"Note\" align=center caption=\"Image credit: [Google Data Analytics Specialization ](https://www.coursera.org/specializations/data-analytics-certificate)\" target=\"_blank\" >}}",
+  "snippets": [
+    "snippets : It is an obsidian plugin, that replaces your selected text.",
+    "fig : {{< figure src=\"../../../images/image.png\" attr=\"Note\" align=center caption=\"Image credit: [Google Data Analytics Specialization ](https://www.coursera.org/specializations/data-analytics-certificate)\" target=\"_blank\" >}}"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": true,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}
