@@ -5,6 +5,7 @@ description: "Test Note"
 date: "2024-01-08"
 math: true
 draft: true
+hidden: true
 ---
 
 # Demo Note upt: 7:02 yoyoy
