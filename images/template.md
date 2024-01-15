@@ -3,9 +3,10 @@ title: title
 date: 2024-01-14
 description: 
 tags: 
+summary: "Note"
 cover:
-  image: images/template.png
-  caption: template
+  image: https://i.ibb.co/5rpG2Hy/note.png
+  caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
 hidden: true
 ---
 

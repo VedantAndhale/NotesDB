@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # NotesDB
 
 ### All My Snippets........
