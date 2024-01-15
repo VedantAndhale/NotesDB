@@ -1,6 +1,9 @@
 ---
 title: "Data Analysis Life Cycle"
 date: "2024-01-14"
+cover:
+  image: images/note.png
+  caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
 ---
 
 There are generally six phase in data analysis life cycle

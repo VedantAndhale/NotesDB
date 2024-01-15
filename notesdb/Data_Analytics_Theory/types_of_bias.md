@@ -1,6 +1,9 @@
 ---
 title: "Types of bias"
 date: "2024-01-14"
+cover:
+  image: images/note.png
+  caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
 ---
 
 * Sampling bias: a sample that isn't representative of whole population
