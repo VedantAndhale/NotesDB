@@ -2,10 +2,9 @@
 title: "Types of Data"
 date: "2024-01-14"
 cover:
-  image: images/note.png
+  image: https://i.ibb.co/5rpG2Hy/note.png
   caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
 ---
-
 
 - Primary Data-collected from first hand source
 - Secondary Data-collected other sources
@@ -37,5 +36,5 @@ cover:
 
 ---
 
-* Wide Data-each row conatins multiple data points
-* Long Dta-each row contains a single data point
+- Wide Data-each row conatins multiple data points
+- Long Dta-each row contains a single data point
