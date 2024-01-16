@@ -1,6 +1,5 @@
 ---
 title: title
-date: 2024-01-14
 description: 
 tags: 
 summary: "Note"
@@ -8,8 +7,14 @@ cover:
   image: https://i.ibb.co/5rpG2Hy/note.png
   caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
   hiddenInSingle: true
+draft: true
+searchHidden: true
+hiddenInHomeList: true
+hiddenInList: true
+isHidden: true
 hidden: true
 ---
+# date: 2024-01-14
 
 
 #### Decision Tree

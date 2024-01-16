@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5983a58b53a76f5a",
+        "id": "c8cbf6ed3d512188",
         "type": "tabs",
         "children": [
           {
-            "id": "b5a6cec165a0f7a6",
+            "id": "c5a75b1e006f83d0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notesdb/Python/What's_is_Dot_in_mylist.append().md"
+              }
             }
           }
         ]
@@ -138,10 +140,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5a6cec165a0f7a6",
+  "active": "b7b461de5b62d200",
   "lastOpenFiles": [
-    "notesdb/Data_Analytics_Theory/note7.md",
     "notesdb/Data_Analytics_Theory/types_of_bias.md",
+    "Invalid date.md",
+    "notesdb/Python/What's_is_Dot_in_mylist.append().md",
+    "template.md",
+    "notesdb/Data_Analytics_Theory/note7.md",
     "notesdb/Data_Analytics_Theory/types_of_Data.md",
     "notesdb/Data_Analytics_Theory/roccc.md",
     "notesdb/Data_Analytics_Theory/data_modeling.md",

@@ -1,4 +1,9 @@
 ---
+draft: true
+searchHidden: true
+hiddenInHomeList: true
+hiddenInList: true
+isHidden: true
 hidden: true
 ---
 # NotesDB
