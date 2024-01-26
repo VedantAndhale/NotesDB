@@ -11,8 +11,12 @@
             "id": "c5a75b1e006f83d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "undrafted_communication.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "undrafted_communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "undrafted_communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notesdb/Python/What's_is_Dot_in_mylist.append().md"
+                "file": "undrafted_communication.md"
               }
             }
           }
@@ -140,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7b461de5b62d200",
+  "active": "c5a75b1e006f83d0",
   "lastOpenFiles": [
+    "undrafted_communication.md",
     "notesdb/Data_Analytics_Theory/types_of_bias.md",
     "Invalid date.md",
     "notesdb/Python/What's_is_Dot_in_mylist.append().md",

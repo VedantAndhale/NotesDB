@@ -15,5 +15,3 @@ cover:
 6. Finding pattens: trends analysis
 
 {{< figure src="../../../images/1703406038954.png" alttr="Note" align=center caption="Image credit: [Google Data Analytics Specialization ](https://www.coursera.org/specializations/data-analytics-certificate)" target="_blank" >}}
-
-> Image credit: [Google Data Analytics Specialization ](https://www.coursera.org/specializations/data-analytics-certificate)
